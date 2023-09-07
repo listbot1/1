@@ -1,0 +1,14 @@
+#EXTM3U
+
+#EXTINF:-1,America TV HD
+http://181.177.255.253:8000/play/a02h/index.m3u8
+
+#EXTINF:-1,AmericaTV
+http://181.177.255.253:8000/play/a05l/index.m3u8
+#EXTINF:-1,ATV
+http://181.177.255.253:8000/play/a05n/index.m3u8
+#EXTINF:-1,Latina
+http://181.177.255.253:8000/play/a05k/index.m3u8
+#EXTINF:-1,Latina HD
+http://181.177.255.253:8000/play/a02i/index.m3u8
+#EXTINF:-1,Lifetime
